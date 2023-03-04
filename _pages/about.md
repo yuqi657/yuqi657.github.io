@@ -30,7 +30,7 @@ My research interest includes computer vision and multi-modal learning. I have p
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/TOKEN_MIX.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/TOKEN_MIX_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Token Mixing: Parameter-Efficient Transfer Learning from Image-Language to Video-Language]()
@@ -43,7 +43,7 @@ My research interest includes computer vision and multi-modal learning. I have p
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/TS2_NET.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/TS2_NET_1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740311.pdf) [**Project**](https://github.com/yuqi657/ts2_net) 
@@ -59,7 +59,7 @@ My research interest includes computer vision and multi-modal learning. I have p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trecvid VTT2022</div><img src='images/TRECVID_VTT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [TRECVID 2022 task: Video to Text Description
+[TRECVID 2022 task: Video to Text Description
 ](https://www-nlpir.nist.gov/projects/tvpubs/tv22.papers/rucaim3-tencent.pdf) [**Project**](https://github.com/yuezih/BLIP4video)
 
 Zihao Yue, **Yuqi Liu**, Liang Zhang, Linli Yao, Qin Jin
