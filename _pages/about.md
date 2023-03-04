@@ -19,10 +19,11 @@ redirect_from:
 
 
 # 😊 About Me
-I’m a second-year graduate student at [AIM3 Lab](https://www.ruc-aim3.com/AIM3-Lab.html), Renmin University of China, under the supervision of [Prof. Qin Jin](http://jin-qin.com/). Before that, I received my Bachelor’s degree in 2021 from South China University of Technology. Right now I focus on  <span style="color: red;">I'm looking for Ph.D. student positions for 2024 Fall.</span>
+I’m a second-year graduate student at [AIM3 Lab](https://www.ruc-aim3.com/AIM3-Lab.html), Renmin University of China, under the supervision of [Prof. Qin Jin](http://jin-qin.com/). Before that, I received my Bachelor’s degree in 2021 from South China University of Technology. I was awarded the National Scholarship twice during my undergraduate years.
 
+My research interest includes Computer Vision, Multi-modal Learning. I have published 2 papers at the top international AI conferences. Here is my <a href='https://scholar.google.com/citations?user=X-OlO2gAAAAJ&hl=en'>google scholar page</a>. I did internship at Tencent video processing group.
 
-My research interest includes computer vision and multi-modal learning. I have published 2 papers at the top international AI conferences. Here is my google scholar <a href='https://scholar.google.com/citations?user=X-OlO2gAAAAJ&hl=en'>page</a>.
+<span style="color: red;">I'm looking for Ph.D. student positions for 2024 Fall.</span>
 
 
 # 🔥 News
