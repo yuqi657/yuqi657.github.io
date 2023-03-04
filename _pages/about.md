@@ -74,8 +74,8 @@ Zihao Yue, **Yuqi Liu***, Liang Zhang, Linli Yao, Qin Jin
 
 
 # 🎖 Honors and Awards
-- *2019.11* Undergraduate National Scholarship.
-- *2018.11* Undergraduate National Scholarship.
+- *2019.11* **National Scholarship** (Undergraduate).
+- *2018.11* **National Scholarship** (Undergraduate).
 
 # 📖 Educations
 - *2021.09 - 2024.06 (now)*, M.Phil., School of Information, Remin University of China. 
