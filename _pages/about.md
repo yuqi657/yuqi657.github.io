@@ -55,10 +55,19 @@ My research interest includes computer vision and multi-modal learning. I have p
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trecvid VTT2022</div><img src='images/TRECVID_VTT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 - [TRECVID 2022 task: Video to Text Description
 ](https://www-nlpir.nist.gov/projects/tvpubs/tv22.papers/rucaim3-tencent.pdf) [**Project**](https://github.com/yuezih/BLIP4video)
 
-Zihao Yue, Yuqi Liu, Liang Zhang, Linli Yao, Qin Jin **Trecvid VTT 2022**
+Zihao Yue, **Yuqi Liu**, Liang Zhang, Linli Yao, Qin Jin
+
+- We leverage a vision-language pre-training model pre-trained on large-scale image-text datasets for video captioning.
+- Our submission ranks 1st in all official evaluation metrics.
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2019.11* National Scholarship.
@@ -67,10 +76,6 @@ Zihao Yue, Yuqi Liu, Liang Zhang, Linli Yao, Qin Jin **Trecvid VTT 2022**
 # 📖 Educations
 - *2021.09 - 2024.06 (now)*, M.Phil., School of Information, Remin University of China. 
 - *2017.09 - 2021.06*, B.E., School of Software Engineering, South China University of Technology.
-
-<!-- # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 - *2022.01 - 2022.10*, Group of video computing, Tencent, China.
