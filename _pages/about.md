@@ -35,7 +35,7 @@ My research interest includes computer vision and multi-modal learning. I have p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/TOKEN_MIX.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Token Mixing: Parameter-Efficient Transfer Learning from Image-Language to Video-Language]()
+[Token Mixing: Parameter-Efficient Transfer Learning from Image-Language to Video-Language](https://github.com/yuqi657/video_language_model/releases/download/v0.1/token_mix.pdf)
 
 **Yuqi Liu***, Luhui Xu, Pengfei Xiong, Qin Jin
 
