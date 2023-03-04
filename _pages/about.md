@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a second-year graduate student at the School of Information, Renmin University of China. Before that, I received my Bachelor’s degree in 2021 from South China University of Technology. Right now I focus on  <span style="color: red;">I'm looking for Ph.D. student positions for 2024 Fall.</span>
+
+# 😊 Brief Introduction
+I’m a second-year graduate student at [AIM3 Lab](https://www.ruc-aim3.com/AIM3-Lab.html), Renmin University of China, under the supervision of [Prof. Qin Jin](http://jin-qin.com/). Before that, I received my Bachelor’s degree in 2021 from South China University of Technology. Right now I focus on  <span style="color: red;">I'm looking for Ph.D. student positions for 2024 Fall.</span>
 
 
 My research interest includes computer vision and multi-modal learning. I have published 2 papers at the top international AI conferences. Here is my google scholar <a href='https://scholar.google.com/citations?user=X-OlO2gAAAAJ&hl=en'>page</a>.
@@ -30,48 +32,50 @@ My research interest includes computer vision and multi-modal learning. I have p
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/TOKEN_MIX_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/TOKEN_MIX.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Token Mixing: Parameter-Efficient Transfer Learning from Image-Language to Video-Language]()
 
-**Yuqi Liu**, Luhui Xu, Pengfei Xiong, Qin Jin
+**Yuqi Liu***, Luhui Xu, Pengfei Xiong, Qin Jin
 
-[**Project**](https://github.com/yuqi657/video_language_model) 
+[**Project Page**](https://github.com/yuqi657/video_language_model) 
 - We study how to transfer knowledge from image-language model to video-language tasks. 
 - We have implemented several components proposed by recent works.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/TS2_NET_1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trecvid VTT 2022</div><img src='images/TRECVID_VTT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740311.pdf) [**Project**](https://github.com/yuqi657/ts2_net) 
+[TRECVID 2022 task: Video to Text Description
+](https://www-nlpir.nist.gov/projects/tvpubs/tv22.papers/rucaim3-tencent.pdf)
 
-**Yuqi Liu**, Pengfei Xiong, Luhui Xu, Shengming Cao, Qin Jin
+Zihao Yue, **Yuqi Liu***, Liang Zhang, Linli Yao, Qin Jin
 
+[**Project Page**](https://github.com/yuezih/BLIP4video)
+- We leverage a vision-language pre-training model pre-trained on large-scale image-text datasets for video captioning.
+- Our submission ranks 1st in all official evaluation metrics.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2022</div><img src='images/TS2_NET.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740311.pdf) 
+
+**Yuqi Liu***, Pengfei Xiong, Luhui Xu, Shengming Cao, Qin Jin
+
+[**Project Page**](https://github.com/yuqi657/ts2_net) 
 - TS2-Net is a text-video retrieval model based on [CLIP](https://github.com/openai/CLIP). 
 - We propose our token shift transformer and token selection transformer.
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Trecvid VTT2022</div><img src='images/TRECVID_VTT.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[TRECVID 2022 task: Video to Text Description
-](https://www-nlpir.nist.gov/projects/tvpubs/tv22.papers/rucaim3-tencent.pdf) [**Project**](https://github.com/yuezih/BLIP4video)
-
-Zihao Yue, **Yuqi Liu**, Liang Zhang, Linli Yao, Qin Jin
-
-- We leverage a vision-language pre-training model pre-trained on large-scale image-text datasets for video captioning.
-- Our submission ranks 1st in all official evaluation metrics.
-</div>
-</div>
-
 # 🎖 Honors and Awards
-- *2019.11* National Scholarship.
-- *2018.11* National Scholarship.
+- *2019.11* Undergraduate National Scholarship.
+- *2018.11* Undergraduate National Scholarship.
 
 # 📖 Educations
 - *2021.09 - 2024.06 (now)*, M.Phil., School of Information, Remin University of China. 
