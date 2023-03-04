@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-# 😊 Brief Introduction
+# 😊 About Me
 I’m a second-year graduate student at [AIM3 Lab](https://www.ruc-aim3.com/AIM3-Lab.html), Renmin University of China, under the supervision of [Prof. Qin Jin](http://jin-qin.com/). Before that, I received my Bachelor’s degree in 2021 from South China University of Technology. Right now I focus on  <span style="color: red;">I'm looking for Ph.D. student positions for 2024 Fall.</span>
 
 
