@@ -21,7 +21,7 @@ redirect_from:
 # 😊 About Me
 I’m a second-year graduate student at [AIM3 Lab](https://www.ruc-aim3.com/AIM3-Lab.html), Renmin University of China, under the supervision of [Prof. Qin Jin](http://jin-qin.com/). Before that, I received my Bachelor’s degree in 2021 from South China University of Technology and I was awarded the National Scholarship twice during my undergraduate years.
 
-My research interest includes Computer Vision and Multi-modal Learning. I have published 2 papers at the top international AI conferences. Here is my <a href='https://scholar.google.com/citations?user=X-OlO2gAAAAJ&hl=en'>google scholar page</a>. I did internship at Tencent video processing group.
+My research interest includes Computer Vision and Multi-modal Learning. I have published 2 papers at the top international AI conferences. Here is my <a href='https://scholar.google.com/citations?user=X-OlO2gAAAAJ&hl=en'>google scholar page</a>. I did internship at Tencent video processing group in 2022.
 
 <span style="color: red;">I'm looking for Ph.D. student positions for 2024 Fall.</span>
 
@@ -36,7 +36,7 @@ My research interest includes Computer Vision and Multi-modal Learning. I have p
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2023</div><img src='images/TOKEN_MIX.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Token Mixing: Parameter-Efficient Transfer Learning from Image-Language to Video-Language](https://github.com/yuqi657/video_language_model/releases/download/v0.1/token_mix.pdf)
+[Token Mixing: Parameter-Efficient Transfer Learning from Image-Language to Video-Language](https://www.ruc-aim3.com/papers/token_mix.pdf)
 
 **Yuqi Liu***, Luhui Xu, Pengfei Xiong, Qin Jin
 
