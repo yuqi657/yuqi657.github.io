@@ -23,7 +23,7 @@ I’m a second-year graduate student at [AIM3 Lab](https://www.ruc-aim3.com/AIM3
 
 My research interest includes Computer Vision and Multi-modal Learning. I have published 2 papers at the top international AI conferences. Here is my <a href='https://scholar.google.com/citations?user=X-OlO2gAAAAJ&hl=en'>google scholar page</a>. I did internship at Tencent video processing group in 2022.
 
-<span style="color: red;">I'm looking for Ph.D. student positions for 2024 Fall.</span>
+<!-- <span style="color: red;">I'm looking for Ph.D. student positions for 2024 Fall.</span> -->
 
 
 # 🔥 News
