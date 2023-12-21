@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 😊 About Me
-I’m a second-year graduate student at [AIM3 Lab](https://www.ruc-aim3.com/AIM3-Lab.html), Renmin University of China, under the supervision of [Prof. Qin Jin](http://jin-qin.com/). Before that, I received my Bachelor’s degree in 2021 from South China University of Technology and I was awarded the National Scholarship twice during my undergraduate years.
+I’m a final-year graduate student at [AIM3 Lab](https://www.ruc-aim3.com/AIM3-Lab.html), Renmin University of China [(RUC)](https://www.ruc.edu.cn/), under the supervision of [Prof. Qin Jin](http://jin-qin.com/). Before that, I received my Bachelor’s degree in 2021 from South China University of Technology [(SCUT)](https://www.scut.edu.cn/new/) and I was awarded the National Scholarship twice during my undergraduate years and one in graduate years.
 
 My research interest includes Computer Vision and Multi-modal Learning. I have published 2 papers at the top international AI conferences. Here is my <a href='https://scholar.google.com/citations?user=X-OlO2gAAAAJ&hl=en'>google scholar page</a>. I did internship at Tencent video processing group in 2022.
 
@@ -75,6 +75,7 @@ Zihao Yue, **Yuqi Liu***, Liang Zhang, Linli Yao, Qin Jin
 
 
 # 🎖 Honors and Awards
+- *2023.11* **National Scholarship** (Graduate).
 - *2019.11* **National Scholarship** (Undergraduate).
 - *2018.11* **National Scholarship** (Undergraduate).
 
