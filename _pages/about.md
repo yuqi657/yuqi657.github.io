@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 😊 About Me
-I’m a final-year graduate student at [AIM3 Lab](https://www.ruc-aim3.com/AIM3-Lab.html), Renmin University of China [(RUC)](https://www.ruc.edu.cn/), under the supervision of [Prof. Qin Jin](http://jin-qin.com/). Before that, I received my Bachelor’s degree in 2021 from South China University of Technology [(SCUT)](https://www.scut.edu.cn/new/) and I was awarded the National Scholarship twice during my undergraduate years and one in graduate years.
+I’m a first year PhD student at [DVLab](https://www.dvlab.ai/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Professor [JIA Jiaya](https://jiaya.me/home) and Professor [YU Bei](https://www.cse.cuhk.edu.hk/~byu/). Before that, I obtained my master degree at [AIM3 Lab](https://www.ruc-aim3.com/AIM3-Lab.html), [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of Professor [JIN Qin ](http://jin-qin.com/). I received my Bachelor’s degree in 2021 from [South China University of Technology](https://www.scut.edu.cn/new/). I was awarded the National Scholarship twice during my undergraduate years and one in graduate years.
 
 My research interest includes Computer Vision and Multi-modal Learning. I have published 2 papers at the top international AI conferences. Here is my <a href='https://scholar.google.com/citations?user=X-OlO2gAAAAJ&hl=en'>google scholar page</a>. I did internship at Tencent video processing group in 2022.
 
@@ -27,6 +27,10 @@ My research interest includes Computer Vision and Multi-modal Learning. I have p
 
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACMMM 2024! 
+- *2024.04*: &nbsp;🎉🎉 Receive the [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html)!
+- *2024.01*: &nbsp;🎉🎉 Receive the CUHK Vice-Chancellor's Scholarships
+- *2023.12*: &nbsp;🎉🎉 Receive National Scholarship!
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2023! 
 - *2022.10*: &nbsp;🎉🎉 Our team rank the 1st in Trecvid 2022 VTT task! 
 - *2022.05*: &nbsp;🎉🎉 One paper is accepted by ECCV 2023!  
@@ -75,14 +79,17 @@ Zihao Yue, **Yuqi Liu***, Liang Zhang, Linli Yao, Qin Jin
 
 
 # 🎖 Honors and Awards
-- *2023.11* **National Scholarship** (Graduate).
-- *2019.11* **National Scholarship** (Undergraduate).
-- *2018.11* **National Scholarship** (Undergraduate).
+- *2024.04* **The Hong Kong PhD Fellowship Scheme**.
+- *2024.01* **CUHK Vice-Chancellor's Scholarships**.
+- *2023.11* **National Scholarship**.
+- *2019.11* **National Scholarship**.
+- *2018.11* **National Scholarship**.
 
 # 📖 Educations
-- *2021.09 - 2024.06 (now)*, M.Phil., School of Information, Remin University of China. 
+- *2024.08 - 2028.06(Expect)*, Ph.D., Department of Computer Science and Engineering, The Chinese University of Hong Kong.
+- *2021.09 - 2024.06*, M.Phil., School of Information, Renmin University of China. 
 - *2017.09 - 2021.06*, B.E., School of Software Engineering, South China University of Technology.
 
 # 💻 Internships
 - *2022.01 - 2022.10*, Group of video computing, Tencent, China.
-- *2020.04 - 2020.10*, Group of wechatPay HK, Tencent, China.
+- *2020.04 - 2020.10*, Group of WechatPay HK, Tencent, China.
