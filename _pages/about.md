@@ -19,7 +19,7 @@ redirect_from:
 
 
 # 😊 About Me
-I’m a first year PhD student at [DVLab](https://www.dvlab.ai/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Professor [JIA Jiaya](https://jiaya.me/home) and Professor [YU Bei](https://www.cse.cuhk.edu.hk/~byu/). Before that, I obtained my master degree at [AIM3 Lab](https://www.ruc-aim3.com/AIM3-Lab.html), [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of Professor [JIN Qin](http://jin-qin.com/). I received my Bachelor’s degree in 2021 from [South China University of Technology](https://www.scut.edu.cn/new/). I was awarded the National Scholarship twice during my undergraduate years and one in graduate years.
+I’m a first year PhD student at [DVLab](https://www.dvlab.ai/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Professor [JIA Jiaya](https://jiaya.me/home) and Professor [YU Bei](https://www.cse.cuhk.edu.hk/~byu/). Before that, I obtained my master degree at [AIM3 Lab](https://www.ruc-aim3.com/), [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of Professor [JIN Qin](http://jin-qin.com/). I received my Bachelor’s degree in 2021 from [South China University of Technology](https://www.scut.edu.cn/new/). I was awarded the National Scholarship twice during my undergraduate years and one in graduate years.
 
 My research interest includes Computer Vision and Multi-modal Learning. I have published 2 papers at the top international AI conferences. Here is my <a href='https://scholar.google.com/citations?user=X-OlO2gAAAAJ&hl=en'>google scholar page</a>. I did internship at Tencent video processing group in 2022.
 
@@ -29,7 +29,7 @@ My research interest includes Computer Vision and Multi-modal Learning. I have p
 # 🔥 News
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACMMM 2024! 
 - *2024.04*: &nbsp;🎉🎉 Receive the [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html)!
-- *2024.01*: &nbsp;🎉🎉 Receive the CUHK Vice-Chancellor's Scholarships
+- *2024.01*: &nbsp;🎉🎉 Receive the [CUHK Vice-Chancellor's PhD Scholarship Scheme](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships)!
 - *2023.12*: &nbsp;🎉🎉 Receive National Scholarship!
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2023! 
 - *2022.10*: &nbsp;🎉🎉 Our team rank the 1st in Trecvid 2022 VTT task! 
@@ -42,7 +42,7 @@ My research interest includes Computer Vision and Multi-modal Learning. I have p
 
 [Token Mixing: Parameter-Efficient Transfer Learning from Image-Language to Video-Language](https://www.ruc-aim3.com/papers/token_mix.pdf)
 
-**Yuqi Liu***, Luhui Xu, Pengfei Xiong, Qin Jin
+**Yuqi Liu**, Luhui Xu, Pengfei Xiong, Qin Jin
 
 [**Project Page**](https://github.com/yuqi657/video_language_model) 
 - We study how to transfer knowledge from image-language model to video-language tasks. 
@@ -56,7 +56,7 @@ My research interest includes Computer Vision and Multi-modal Learning. I have p
 [TRECVID 2022 task: Video to Text Description
 ](https://www-nlpir.nist.gov/projects/tvpubs/tv22.papers/rucaim3-tencent.pdf)
 
-Zihao Yue, **Yuqi Liu***, Liang Zhang, Linli Yao, Qin Jin
+Zihao Yue, **Yuqi Liu**, Liang Zhang, Linli Yao, Qin Jin
 
 [**Project Page**](https://github.com/yuezih/BLIP4video)
 - We leverage a vision-language pre-training model pre-trained on large-scale image-text datasets for video captioning.
@@ -69,7 +69,7 @@ Zihao Yue, **Yuqi Liu***, Liang Zhang, Linli Yao, Qin Jin
 
 [TS2-Net: Token Shift and Selection Transformer for Text-Video Retrieval](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740311.pdf) 
 
-**Yuqi Liu***, Pengfei Xiong, Luhui Xu, Shengming Cao, Qin Jin
+**Yuqi Liu**, Pengfei Xiong, Luhui Xu, Shengming Cao, Qin Jin
 
 [**Project Page**](https://github.com/yuqi657/ts2_net) 
 - TS2-Net is a text-video retrieval model based on [CLIP](https://github.com/openai/CLIP). 
@@ -79,8 +79,8 @@ Zihao Yue, **Yuqi Liu***, Liang Zhang, Linli Yao, Qin Jin
 
 
 # 🎖 Honors and Awards
-- *2024.04* **The Hong Kong PhD Fellowship Scheme**.
-- *2024.01* **CUHK Vice-Chancellor's Scholarships**.
+- *2024.04* **Hong Kong PhD Fellowship Scheme**.
+- *2024.01* **CUHK Vice-Chancellor's PhD Scholarship Scheme**.
 - *2023.11* **National Scholarship**.
 - *2019.11* **National Scholarship**.
 - *2018.11* **National Scholarship**.
