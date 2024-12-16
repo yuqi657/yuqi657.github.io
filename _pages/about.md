@@ -23,6 +23,7 @@ I’m a first year PhD student at [DVLab](https://www.dvlab.ai/), [The Chinese U
 
 My research interest includes Computer Vision and Multi-modal Learning. I have published 3 papers at the top international AI conferences. Here is my <a href='https://scholar.google.com/citations?user=X-OlO2gAAAAJ&hl=en'>google scholar page</a>. I did internship at Tencent video processing group in 2022.
 
+<span style="color: red;">Actively looking for cooperation opportunities.</span>
 <!-- <span style="color: red;">I'm looking for Ph.D. student positions for 2024 Fall.</span> -->
 
 
@@ -44,9 +45,7 @@ My research interest includes Computer Vision and Multi-modal Learning. I have p
 
 [Lyra: An Efficient and Speech-Centric Framework for Omni-Cognition](https://arxiv.org/pdf/2412.09501)
 
-Zhisheng Zhong*, Chengyao Wang*, **Yuqi Liu***, Senqiao Yang,
-Longxiang Tang, Yuechen Zhang, Jingyao Li, Tianyuan Qu, Yanwei Li,
-Yukang Chen, Shaozuo Yu, Sitong Wu, Eric Lo, Shu Liu#, Jiaya Jia
+Zhisheng Zhong#, Chengyao Wang#, **Yuqi Liu**# (equally contributed #), Senqiao Yang,Longxiang Tang, Yuechen Zhang, Jingyao Li, Tianyuan Qu, Yanwei Li, Yukang Chen, Shaozuo Yu, Sitong Wu, Eric Lo, Shu Liu, Jiaya Jia 
 
 [**Project Page**](https://lyra-omni.github.io/) 
 - Stronger performance: Achieve SOTA results across a variety of speech-centric tasks. 
