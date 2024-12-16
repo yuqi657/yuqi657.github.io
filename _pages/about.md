@@ -39,7 +39,7 @@ My research interest includes Computer Vision and Multi-modal Learning. I have p
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv preprint</div><img src='https://github.com/dvlab-research/Lyra/blob/main/assets/overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv preprint</div><img src='images/LYRA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Lyra: An Efficient and Speech-Centric Framework for Omni-Cognition](https://arxiv.org/pdf/2412.09501)
@@ -55,7 +55,7 @@ Yukang Chen, Shaozuo Yu, Sitong Wu, Eric Lo, Shu Liu#, Jiaya Jia
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/TOKEN_MIX.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2024</div><img src='images/RTIME.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reversed in Time: A Novel Temporal-Emphasized Benchmark for Cross-Modal Video-Text Retrieval](https://dl.acm.org/doi/10.1145/3664647.3680731)
