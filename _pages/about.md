@@ -19,11 +19,11 @@ redirect_from:
 
 
 # 😊 About Me
-I’m a first year PhD student at [DVLab](https://www.dvlab.ai/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Professor [JIA Jiaya](https://jiaya.me/home) and Professor [YU Bei](https://www.cse.cuhk.edu.hk/~byu/). Before that, I obtained my master degree at [AIM3 Lab](https://www.ruc-aim3.com/), [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of Professor [JIN Qin](http://jin-qin.com/). I received my Bachelor’s degree in 2021 from [South China University of Technology](https://www.scut.edu.cn/new/). I was awarded the National Scholarship twice during my undergraduate years and one in graduate years.
+I’m a first year PhD student at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Professor [JIA Jiaya](https://jiaya.me/home) and Professor [YU Bei](https://www.cse.cuhk.edu.hk/~byu/). Before that, I obtained my master degree at [AIM3 Lab](https://www.ruc-aim3.com/), [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of Professor [JIN Qin](http://jin-qin.com/). I received my Bachelor’s degree in 2021 from [South China University of Technology](https://www.scut.edu.cn/new/). I was awarded the National Scholarship twice during my undergraduate years and one in graduate years.
 
 My research interest includes Computer Vision and Multi-modal Learning. I have published 3 papers at the top international AI conferences. Here is my <a href='https://scholar.google.com/citations?user=X-OlO2gAAAAJ&hl=en'>google scholar page</a>. I did internship at Tencent video processing group in 2022.
 
-<span style="color: red;">Actively looking for cooperation opportunities.</span>
+<span style="color: red;">Actively looking for cooperation opportunities. Feel free to reach out if you have some opening positions.</span>
 <!-- <span style="color: red;">I'm looking for Ph.D. student positions for 2024 Fall.</span> -->
 
 
@@ -73,7 +73,7 @@ Yang Du, **Yuqi Liu**, Qin Jin
 
 **Yuqi Liu**, Luhui Xu, Pengfei Xiong, Qin Jin
 
-[**Project Page**](https://github.com/yuqi657/video_language_model) 
+[**Project Page**](https://github.com/LiuRicky/video_language_model) 
 - We study how to transfer knowledge from image-language model to video-language tasks. 
 - We have implemented several components proposed by recent works.
 </div>
@@ -100,7 +100,7 @@ Zihao Yue, **Yuqi Liu**, Liang Zhang, Linli Yao, Qin Jin
 
 **Yuqi Liu**, Pengfei Xiong, Luhui Xu, Shengming Cao, Qin Jin
 
-[**Project Page**](https://github.com/yuqi657/ts2_net) 
+[**Project Page**](https://github.com/LiuRicky/ts2_net) 
 - TS2-Net is a text-video retrieval model based on [CLIP](https://github.com/openai/CLIP). 
 - We propose our token shift transformer and token selection transformer.
 </div>
