@@ -30,8 +30,8 @@ My research interest includes Computer Vision and Multi-modal Learning. I have p
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 We are excited to release [Lyra](https://lyra-omni.github.io/)! 
 - *2024.07*: &nbsp;🎉🎉 One paper is accepted by ACMMM 2024! 
-- *2024.04*: &nbsp;🎉🎉 Receive the [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html)!
-- *2024.01*: &nbsp;🎉🎉 Receive the [CUHK Vice-Chancellor's PhD Scholarship Scheme](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships)!
+<!-- - *2024.04*: &nbsp;🎉🎉 Receive the [Hong Kong PhD Fellowship Scheme](https://cerg1.ugc.edu.hk/hkpfs/index.html)!
+- *2024.01*: &nbsp;🎉🎉 Receive the [CUHK Vice-Chancellor's PhD Scholarship Scheme](https://www.gs.cuhk.edu.hk/admissions/scholarships-fees/scholarships)! -->
 - *2023.12*: &nbsp;🎉🎉 Receive National Scholarship!
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by AAAI 2023! 
 - *2022.10*: &nbsp;🎉🎉 Our team rank the 1st in Trecvid 2022 VTT task! 
@@ -108,8 +108,8 @@ Zihao Yue, **Yuqi Liu**, Liang Zhang, Linli Yao, Qin Jin
 
 
 # 🎖 Honors and Awards
-- *2024.04* **Hong Kong PhD Fellowship Scheme**.
-- *2024.01* **CUHK Vice-Chancellor's PhD Scholarship Scheme**.
+<!-- - *2024.04* **Hong Kong PhD Fellowship Scheme**.
+- *2024.01* **CUHK Vice-Chancellor's PhD Scholarship Scheme**. -->
 - *2023.11* **National Scholarship**.
 - *2019.11* **National Scholarship**.
 - *2018.11* **National Scholarship**.
